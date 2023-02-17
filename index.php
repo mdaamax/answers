@@ -38,7 +38,6 @@ $nam10b = (12*$x*$y)/(3*$x+$y**(2*$x));
         <tr><td><b>8)   <?php echo $nam8; ?></td></tr>
         <tr><td><b>9)   <?php echo $nam9; ?></td></tr>
         <tr><td><b>10)  <?php echo $nam10a / $nam10b; ?></td></tr>
-
     </table>
 </body>
 </html>

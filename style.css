@@ -1,0 +1,26 @@
+.box{
+    width: 40%;
+    margin: 0 auto;
+}
+table {
+    font-size: 20px;
+    text-align: left;
+    border-collapse: collapse;
+    border-radius: 10px;
+    box-shadow: 0 0 0 10px #000000;
+    color: #000000;
+}
+h3{
+    text-align: center;
+}
+td {
+    border-top: 5px solid #5e1f07;
+    padding: 18px;
+    background: white;
+}
+table td:first-child {
+    border-bottom-left-radius: 20px;
+}
+table td:last-child {
+    border-bottom-right-radius: 20px;
+}
